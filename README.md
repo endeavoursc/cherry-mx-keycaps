@@ -11,4 +11,4 @@ Contains most Cherry molds, including:
 If you find any error or problem, please let me know.
 
 ![Screenshot Top](https://github.com/endeavoursc/cherry-mx-keycaps/blob/main/screenshots/top.jpg)
-![Screenshot Bottom](https://github.com/endeavoursc/cherry-mx-keycaps/blob/main/screenshots/top.jpg)
+![Screenshot Bottom](https://github.com/endeavoursc/cherry-mx-keycaps/blob/main/screenshots/bottom.jpg)
