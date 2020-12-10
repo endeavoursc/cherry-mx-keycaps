@@ -2,7 +2,7 @@
 
 This repository contains 3D models of keycaps in cherry profile in the .3dm (Rhino NURBS) format.
 
-Contains most Cherry molds, including:
+Contains most cherry keys, including:
 - R0, R1, R2, R3, R4, R5 and convex spacebar profiles.
 - Special keycaps: Scooped, barred, stepped, windowed, relegendable, etc.
 - Vintage keycaps no longer in use, like 8u-10u spacebars, BA Enter, Thin ISO Enter, R1 1.5u, etc.
